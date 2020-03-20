@@ -26,7 +26,7 @@
     "immer": "5.3.4",
     "junk": "3.1.0",
     "lodash": "4.17.15",
-    "morgan": "1.9.1",
+    "morgan": "1.10.0",
     "parse-color": "1.0.0",
     "polished": "3.4.4",
     "react": "16.12.0",
